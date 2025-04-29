@@ -1,0 +1,10 @@
+tesseract
+PyPDF2
+pytesseract
+pillow
+PyMuPDF
+transformers
+torch
+streamlit
+requests
+sacremoses
